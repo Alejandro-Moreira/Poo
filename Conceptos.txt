@@ -1,4 +1,4 @@
-Conceptos básicos Poo
+Conceptos Básicos Poo
 Nombre: Alejandro Moreira
 Fecha: 30/05/2023
 Clases: Son las características que tiene un objeto.
@@ -11,3 +11,4 @@ Setters: Es usado normalmente al momento que se realiza la programación formand
 Getters: Es usado normalmente al momento que se realiza la programación formando parte de ella.
 Github: Es una plataforma en la cual se puede trabajar colaborativamente o de forma individual.
 Programacion Orientada a Objetos
+Tercer Semestre
