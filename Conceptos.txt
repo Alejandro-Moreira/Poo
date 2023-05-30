@@ -1,0 +1,9 @@
+Clases: Son las características que tiene un objeto.
+Objeto: Es la representación de cualquier cosa del mundo real.
+Método: Describe los mecanismos que se encargan de realizar tareas.
+Atributo: Son las cualidades que tiene un objeto.
+Puntero: Es el espacio de memoria que tiene un objeto.
+Constructor: Es la composición de los setters y getters.
+Setters: Es usado normalmente al momento que se realiza la programación formando parte de ella.
+Getters: Es usado normalmente al momento que se realiza la programación formando parte de ella.
+Github: Es una plataforma en la cual se puede trabajar colaborativamente o de forma individual.
