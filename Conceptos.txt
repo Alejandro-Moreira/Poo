@@ -8,3 +8,4 @@ Constructor: Es la composición de los setters y getters.
 Setters: Es usado normalmente al momento que se realiza la programación formando parte de ella.
 Getters: Es usado normalmente al momento que se realiza la programación formando parte de ella.
 Github: Es una plataforma en la cual se puede trabajar colaborativamente o de forma individual.
+Programacion Orientada a Objetos
