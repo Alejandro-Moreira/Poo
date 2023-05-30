@@ -1,3 +1,4 @@
+Conceptos básicos Poo
 Clases: Son las características que tiene un objeto.
 Objeto: Es la representación de cualquier cosa del mundo real.
 Método: Describe los mecanismos que se encargan de realizar tareas.
